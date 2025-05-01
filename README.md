@@ -137,6 +137,6 @@ If you’re serious about AI-powered content creation, **Blaze.ai** is a must-tr
 
 <div align="center">
   <a href="https://get.blaze.ai?fpr=0gnyc" target="_blank">
-    <img src="https://img.shields.io/badge/🔥%20Grab%20Your%20Blaze.ai%20Deal%20Now!-black?style=for-the-badge&logo=fire&logoColor=white" alt="Blaze.ai Coupon Button">
+    <img src="https://res.cloudinary.com/dav29ivcg/image/upload/v1746079949/Claim_Coupon_Code_hbhkjr.png" alt="Claim Your Blaze.ai Coupon Now!" style="max-width: 100%; height: auto;">
   </a>
 </div>
