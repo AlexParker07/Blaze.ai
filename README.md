@@ -1,4 +1,4 @@
-### ✅ Blaze.ai Coupon 2025: 50% Off Promo Code + 30% Discount Deals
+### Blaze.ai Coupon 2025: 50% Off Promo Code + 30% Discount Deals
 
 <div align="center">
   <a href="https://get.blaze.ai?fpr=0gnyc" target="_blank">
