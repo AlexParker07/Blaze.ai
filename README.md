@@ -80,13 +80,13 @@ Ready to cash in? Using your Blaze.ai promo code is easier than ordering takeout
 
 ### 🔍 Blaze.ai Coupon Code Details: The Fine Print (But Not Boring)
 
-- **50% Off Your First Purchase (BLAZE50):
+- **50% Off Your First Purchase (BLAZE50)**:
   This is the big one-half off your first order! Use it on any Blaze.ai service or plan, from AI modeling to analytics. Perfect for new users who want to take Blaze.ai for a spin without breaking the bank. Valid until March 31, 2025.  
-- **30% Off on Subscription Plans (SUB30BLAZE):
+- **30% Off on Subscription Plans (SUB30BLAZE)**:
 Ongoing savings for everyone! Use this Blaze.ai promo code on any subscription plan-monthly or yearly. Valid until April 15, 2025.  
-- **Buy One, Get One 25% Off (BOGO25):
+- **Buy One, Get One 25% Off (BOGO25)**:
 Add two services to your cart, apply the code, and get the second service at 25% off. Great for teams or anyone wanting to double up on AI tools. Valid until May 1, 2025.  
-- **Yearly Plans:
+- **Yearly Plans**:
 Blaze.ai already offers 20% off if you pay yearly-stack a coupon for even more savings.
 
 <div align="center">
