@@ -68,6 +68,12 @@ Ready to cash in? Using your Blaze.ai promo code is easier than ordering takeout
 4. **Enter your Blaze.ai coupon code** (e.g., BLAZE50, SUB30BLAZE, or BOGO25).
 5. **See your savings appear like magic**-then complete your purchase and start creating!
 
+   <div align="center">
+  <a href="https://get.blaze.ai?fpr=0gnyc" target="_blank">
+    <img src="https://res.cloudinary.com/dav29ivcg/image/upload/v1746079949/Claim_Coupon_Code_hbhkjr.png" alt="Claim Your Blaze.ai Coupon Now!" style="max-width: 100%; height: auto;">
+  </a>
+</div>
+
 > 📝 *Note: Only one Blaze.ai coupon can be used per purchase, but you can combine a yearly discount with a coupon for even bigger savings!*
 
 ---
