@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://get.blaze.ai?fpr=0gnyc" target="_blank">
-    <img src="https://res.cloudinary.com/dav29ivcg/image/upload/v1746079949/Claim_Coupon_Code_hbhkjr.png" alt="Claim Your Blaze.ai Coupon Now!" style="max-width: 100%; height: auto;">
+    <img src="[https://res.cloudinary.com/dav29ivcg/image/upload/v1746079949/Claim_Coupon_Code_hbhkjr.png](https://res.cloudinary.com/dav29ivcg/image/upload/v1746082000/blaze-ai_xyw9jv.webp)" alt="Claim Your Blaze.ai Coupon Now!" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
